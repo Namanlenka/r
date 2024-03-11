@@ -1,0 +1,27 @@
+.navbar{
+    
+    
+    
+    
+    padding: 10px 10px 10px;
+    
+    border-radius:10px;
+    font-size: x-large;
+}
+.items{
+    
+    padding: 100px;
+    font-size: x-large;
+    
+   
+}
+body{
+    background-image: linear-gradient(rgb(30,30,30),rgb(100,100,100));
+    
+    font-size: xx-large;
+}
+.items:hover{
+    transition: ease 10s;
+    padding: 10px 10px 10px;
+    
+}
